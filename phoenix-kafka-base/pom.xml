@@ -27,7 +27,7 @@
   <parent>
     <groupId>org.apache.phoenix</groupId>
     <artifactId>phoenix-connectors</artifactId>
-    <version>6.0.0-SNAPSHOT</version>
+    <version>6.0.0.1</version>
   </parent>
   <artifactId>phoenix-kafka-base</artifactId>
   <name>Phoenix Kafka Connector - Base</name>
