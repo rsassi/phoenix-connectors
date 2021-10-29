@@ -28,5 +28,7 @@ RESULTS/
 CSV_EXPORT/
 .DS_Store
 
+**/pom.xml.versionsBackup
+
 #test files
 derby.log
