@@ -33,7 +33,7 @@
   <name>Phoenix Flume Connector - Base</name>
   <packaging>pom</packaging>
   <modules>
-    <module>phoenix4-flume</module>
+    <!--<module>phoenix4-flume</module>-->
     <module>phoenix5-flume</module>
   </modules>
 

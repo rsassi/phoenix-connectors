@@ -40,8 +40,10 @@
 
   <packaging>pom</packaging>
   <modules>
+    <!--
     <module>phoenix4-spark</module>
     <module>phoenix4-spark-shaded</module>
+    -->
     <module>phoenix5-spark</module>
     <module>phoenix5-spark-shaded</module>
   </modules>
@@ -121,7 +123,7 @@
     <dependency>
       <groupId>org.scalatest</groupId>
       <artifactId>scalatest_${scala.binary.version}</artifactId>
-      <version>2.2.4</version>
+      <version>3.2.3/version>
       <scope>test</scope>
     </dependency>
 

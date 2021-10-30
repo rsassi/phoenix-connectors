@@ -42,7 +42,7 @@
   </scm>
 
   <modules>
-      <module>phoenix-connectors-phoenix4-compat</module>
+      <!--<module>phoenix-connectors-phoenix4-compat</module>-->
       <module>phoenix-connectors-phoenix5-compat</module>
       <!-- Changing the module order here may cause maven to get stuck in an infinite loop -->
       <module>phoenix-hive-base</module>
@@ -50,7 +50,9 @@
       <module>phoenix-pig-base</module>
       <module>phoenix-kafka-base</module>
       <module>phoenix-spark-base</module>
+      <!--
       <module>phoenix4-connectors-assembly</module>
+      -->
       <module>phoenix5-connectors-assembly</module>
   </modules>
 

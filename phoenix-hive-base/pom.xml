@@ -35,8 +35,8 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>phoenix4-hive</module>
-    <module>phoenix4-hive-shaded</module>
+    <!--<module>phoenix4-hive</module>
+    <module>phoenix4-hive-shaded</module>-->
     <module>phoenix5-hive</module>
     <module>phoenix5-hive-shaded</module>
   </modules>

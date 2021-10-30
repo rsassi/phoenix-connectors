@@ -33,8 +33,8 @@
   <name>Phoenix Pig Connector - Base</name>
   <packaging>pom</packaging>
   <modules>
-    <module>phoenix4-pig</module>
-    <module>phoenix4-pig-shaded</module>
+    <!--<module>phoenix4-pig</module>
+    <module>phoenix4-pig-shaded</module>-->
     <module>phoenix5-pig</module>
     <module>phoenix5-pig-shaded</module>
   </modules>

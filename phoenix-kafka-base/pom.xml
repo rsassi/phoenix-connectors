@@ -34,7 +34,7 @@
 
   <packaging>pom</packaging>
   <modules>
-    <module>phoenix4-kafka</module>
+    <!--<module>phoenix4-kafka</module>-->
     <module>phoenix5-kafka</module>
   </modules>
 
